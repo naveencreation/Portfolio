@@ -1,4 +1,4 @@
-# My Simple Portfolio Project
+# My Portfolio Project
 
 Hello guys! 👋 I am Naveen.
 
@@ -13,7 +13,7 @@ Here is how it looks like:
 ![Screenshot 3](Screenshots/Work.png)
 ![Screenshot 4](Screenshots/Contact.png)
 
-> This is all. If you like this, I also created a simple machine learning app you may check [here](link-to-your-ML-app-repo).
+> This is all. If you like this, I also created a simple machine learning app you may check [here](https://github.com/naveencreation/Streamlit_MachinaMind).
 
 Thank you for visiting! Feel free to reach out if you have any questions or feedback.
 
