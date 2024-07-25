@@ -11,7 +11,8 @@ Here is how it looks like:
 ![Screenshot 1](Screenshots/Home.png)
 ![Screenshot 2](Screenshots/About.png)
 ![Screenshot 3](Screenshots/Work.png)
-![Screenshot 4](Screenshots/Contact.png)
+![Screenshot 4](Screenshots/Projects.png)
+![Screenshot 5](Screenshots/Contact.png)
 
 > This is all. If you like this, I also created a simple machine learning app you may check [here](https://github.com/naveencreation/Streamlit_MachinaMind).
 
