@@ -1,6 +1,6 @@
 # My Portfolio Project
 
-Hello guys! 👋 I am Naveen.
+Hello guys! 👋 I am Naveen.S
 
 I have used only **HTML**, **CSS**, and **JavaScript** in this portfolio project. It's simple and quite good for a clean and straightforward appearance. I saw a similar template somewhere and decided to recreate it in my own way without using any fancy frameworks like React, Tailwind, or Bootstrap. I kept things as simple as possible.
 
